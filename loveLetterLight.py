@@ -3,24 +3,6 @@ import random
 import sys
 import pyinputplus as pyip
 
-'''
-NOTES:
-- By replacing "print("FYI:" with "#print("FYI:" the print statements 
-  that only exist for (exploratory) manual testing purposes disappear.
-  I used these statements systematically to make sure that the program 
-  works the way it should.
-'''
-
-
-'''
-LESSONS LEARNED
-- If I started this project again, I would have started as early as 
-possible with a testing framework (e.g. 'unittest') in order to avoid
-manual exploratory testing with the print-statements in the code.
-
-
-'''
-
 
 '''
 Optional ToDo:
